@@ -1,8 +1,13 @@
 # Devoir Git/Github
 
+Contexte : Développement de Fonctionnalités pour un Site de Prise de Note
+
+Vous êtes chargé d'implémenter de nouvelles fonctionnalités sur un site de prise de note, dont la base de code a été fournie par un développeur. Ce site permet aux utilisateurs de gérer leurs notes de manière intuitive.
+Votre objectif est d'enrichir l'expérience utilisateur en réalisant les étapes ci-dessous.
+
 ## Version 0.0.1
 
-1. Fork le repo devoir Git/Github
+- Fork le repo devoir Git/Github
 
 ## Version 0.0.2 
 - Modifier la ligne 8 du fichier `index.html` : 
@@ -127,9 +132,9 @@ document.getElementById('deleteAllButton').addEventListener('click', function ()
 
 ## Version 0.0.4
 
-- Annuler les modifications réalisée et retourner à la version antérieur en gardant les modifications
+- Annuler les modifications réalisée et retourner à la version antérieur en gardant dans l'historique la version précédente
 
 ## Final
 
 - Réaliser une pull request
-- Deployer le site avec Github pages# TP-Git-Github
+- Deployer le site avec Github pages
