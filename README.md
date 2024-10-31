@@ -7,7 +7,7 @@ Votre objectif est d'enrichir l'expérience utilisateur en réalisant les étape
 
 ## Version 0.0.1
 
-- Fork le repo devoir Git/Github
+- Fork ce repository
 
 ## Version 0.0.2 
 - Modifier la ligne 8 du fichier `index.html` : 
