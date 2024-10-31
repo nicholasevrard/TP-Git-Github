@@ -4,54 +4,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
     <title>Mes notes</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            padding: 20px;
-        }
-
-        .note {
-            background-color: beige;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            padding: 15px;
-            margin: 10px 0;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        button {
-            background-color: #ff6347;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            padding: 5px 10px;
-            cursor: pointer;
-        }
-
-        button:hover {
-            background-color: #ff4500;
-        }
-    </style>
 </head>
 
 <body>
     <h1>Mes notes</h1>
 
-    <section id="infoList">
-        <div class="note">
-            Ranger ma chambre
-        </div>
-        <div class="note">
-            Faire la vaisselle
-        </div>
-        <div class="note">
-            Aller à la salle de sport
-        </div>
-    </section>
+    <input type="text" id="infoInput" placeholder="Entrez une note" />
+    <button id="addNote">Ajouter</button>
+    <button id="deleteAllButton">Supprimer tout</button>
+
+    <section id="infoList"></section>
+
+    <script src="script.js"></script>
 </body>
 
 </html>
