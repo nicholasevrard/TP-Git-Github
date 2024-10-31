@@ -16,7 +16,7 @@ Votre objectif est d'enrichir l'expérience utilisateur en réalisant les étape
 ```
 - Couper le code de la ligne 9 à 37 et le coller dans un nouveau fichier nommé `style.css`
 - Supprimer la balise fermante `</style>` du fichier `index.html`
-- Sauvegarder l’historique de ces modifications avec git avec le message suivant : "refactor css"
+- Sauvegarder l’historique de ces modifications avec git avec le message suivant : "refactor: deport style.css"
 
 ## Version 0.0.3 
 - Créer une nouvelle branche `features/add-dynamic-notes`
