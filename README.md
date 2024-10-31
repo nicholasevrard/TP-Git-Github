@@ -137,5 +137,8 @@ document.getElementById('deleteAllButton').addEventListener('click', function ()
 ## Final
 
 - Réaliser une pull request
+
+## Bonus
 - Deployer le site avec Github pages
-- Fusionner la branch feature/add-note-to-localstorage-fred et régler les conflits si il y en a
+- Fusionner la branche feature/add-note-to-localstorage-fred et régler les conflits si il y en a
+- Proposer une nouvelle fonctionnalité pour améliorer le site
